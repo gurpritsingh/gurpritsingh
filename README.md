@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Gurprit, a full-time frontend developer 👨‍💻 working with Tekion Corp🚀</div>  
+### <div align="left">I'm Gurprit, a full-time frontend developer 👨‍💻 working with Tekion Corp🚀</div>  
   
 
 - 🔭 I’m currently working on building a headless web app for adobe AEM  
